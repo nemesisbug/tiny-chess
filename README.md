@@ -1,6 +1,6 @@
 # GARUDA — a 4 KB chess engine
 
-*Terbang tinggi, menukik tajam.* Fly high, dive sharp.
+*Fly high, dive sharp.*
 
 Most 4 KB engines only count pieces. GARUDA, named for the mythical
 eagle of Indonesia, plays with a philosophy instead of a spreadsheet:
